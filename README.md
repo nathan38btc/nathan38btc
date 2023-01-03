@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-
-Some Tableau work, about chess games : https://public.tableau.com/app/profile/maxence.raballand/viz/Group_project_16708014350030/Story1
-
 <!--
 **nathan38btc/nathan38btc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +10,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡⚡ Fun fact: ...
 -->
-Here is my ⚡[CV](https://github.com/nathan38btc/nathan38btc/files/10281600/CV.pdf)⚡
+
+I am an Fintech engineering student at Ecole Superieur d'ingénieur Léonard De Vinci ( ESILV ).
+I am looking for an intership in the fintech world, there for i am training my Solidity and developement skills to work as a solidity/python developer.
+
+Here is my ⚡[CV](https://github.com/nathan38btc/nathan38btc/files/10281600/CV.pdf)⚡ 
+
+If you want to contact me, 📫: m.maure.nathan@gmail.com
