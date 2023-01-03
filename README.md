@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 I am an Fintech engineering student at Ecole Superieur d'ingénieur Léonard De Vinci ( ESILV ).
-I am looking for an intership in the fintech world, therefor i am training my Solidity and developement skills to work as a solidity/python developer.
+I am looking for an intership in the fintech world, therefore i am training my solidity and developement skills to work as a solidity/python developer.
 
 Here is my ⚡[CV](https://github.com/nathan38btc/nathan38btc/files/10281600/CV.pdf)⚡ 
 
