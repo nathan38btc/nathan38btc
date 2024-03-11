@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 -->
 
 I am an Fintech engineering student at Ecole Superieur d'ingénieur Léonard De Vinci ( ESILV ).
+🌱 I am going into C# .NET in depth on [CodinGame](https://www.codingame.com/profile/ec9536ef33ffa4a4ab37ac24311b9e6c9104595)
+and also working on Angular with a personal project => AngularToDo
 
 Here is my ⚡[CV](https://github.com/nathan38btc/nathan38btc/files/10281600/CV.pdf)⚡ 
 
